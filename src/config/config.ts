@@ -6,16 +6,16 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Dr. Chandravesh Chaudhari',
-    title: 'Assistant Professor | Multimodal AI Researcher',
+    name: 'Mridula Arora',
+    title: 'Student | Christ University',
     image: getAsset('images/profile.png'), // Resolves to /profile.png or /base-path/profile.png
-    description: 'Chandravesh Chaudhari, Ph.D. is an academic and practitioner working at the intersection of business analytics, machine learning, and technology-driven decision-making. His research and teaching focus on applying data science and emerging technologies to solve complex problems in business, economics, and management.\n' +
+    description: 'Mridula Arora is an emerging economics student and researcher with interests across labour markets, development policy, urban economics, and macroeconomic analysis. She has worked on academic projects involving field research in major junctions of Bangalore, studying the challenges faced by diverse groups such as residents, daily commuters, migrants, and local businesses. Her academic work spans topics including wage structures, labour market discrimination, political economy debates, urban development, and international macroeconomic comparisons.\n' +
         '\n' +
-        'Chandravesh teaches in the School of Business and Management at Christ University, where he has guided numerous students and professionals in mastering advanced Excel, Python, machine learning, and applied analytics. He is deeply involved in curriculum design, research mentorship, and capacity building for industry-oriented business analytics education.\n' +
+        'Mridula Arora is an economics student at Christ University with a strong foundation in research, digital marketing, and analytical thinking. She has contributed to market research projects, supported digital marketing campaigns, and created engaging content across blogs, newsletters, and social media platforms. She is skilled in teamwork, problem-solving, and communication, and is continuously building her capabilities through hands-on internships and professional training. Mridula is committed to expanding her expertise and applying her transferable skills to drive meaningful outcomes in diverse professional environments.\n' +
         '\n' +
-        'He earned his Ph.D. from Christ University, holds an Masters in Finance, and has completed specialized certifications in analytics and programming. His academic work emphasizes bridging theoretical concepts with real-world applications, particularly in domains such as financial analytics, business intelligence, and operational optimization.\n' +
+        'She is currently pursuing her B.A. in Economics at Christ University and has supplemented her academic learning with practical training in digital marketing. She has completed industry-oriented coursework that strengthens her analytical, research, and problem-solving abilities. Her academic journey focuses on understanding economic concepts and applying them to real-world contexts, particularly in areas such as market research, consumer behavior, and digital-driven business strategies. She continues to build her skills through hands-on projects and professional certifications to bridge theory with practical application.\n' +
         '\n' +
-        'Chandravesh is the author of books “Programming for Machine Learning and Business” and “Machine Learning for Business". He regularly conducts training programs and workshops for professionals and students, focusing on making advanced analytical methods accessible and impactful.',
+        'Mridula has contributed to her leadership through participating in various clubs like Student Welfare Office, Econtago, ARC , where she developed many new skills such as teamwork, confidence, crativity, time management etc. She actively participates in projects and training programs that enhance her understanding of digital marketing and  data analytics. Through these experiences, she focuses on making research-driven insights and creative communication more accessible and impactful for diverse audiences.',
     tagline: 'Empowering business through data-driven intelligence.',
   location: 'Bangalore, India',
   },
@@ -300,8 +300,8 @@ certifications: [
   ],
 
   contact: {
-    email: 'chandraveshchaudhari@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/chandravesh-chaudhari/',
+    email: 'mridulaarora2006@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/mridula-arora-48059333a/',
     github: 'https://github.com/chandraveshchaudhari',
     googleScholar: 'https://scholar.google.com/citations?authuser=1&user=V78qbA8AAAAJ',
   orcid: 'https://orcid.org/0000-0003-1053-7541',
